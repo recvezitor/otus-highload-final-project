@@ -143,12 +143,11 @@ HA(HandledAppeals) = count (APPEAL_CLOSED)  AND NOT APPEAL_MISSED
 
 TODO
 
-EXPIRED_APPEALS
-CHAT_WAITING_RESPONSE
-
 ### Архитектура проекта
 
 #### Компонентная схема
+
+![](img/OTUS-metrics-components.png)
 
 #### Потоки данных
 
